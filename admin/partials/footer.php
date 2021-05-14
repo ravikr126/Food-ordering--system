@@ -1,0 +1,9 @@
+<!-- footer Section starts-->
+<div class="footer">
+            <div class="wrapper">
+                <p class="text-center">2021 All rights reserved Developed by -<a href="#">Ravi kumar,Raushan kumar,and Shakti singh</a></p>
+            </div>
+        </div>
+        <!-- footer Section ends-->
+   </body>
+</html>
